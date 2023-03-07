@@ -1,3 +1,3 @@
-module github.com/asmarana/hello/hello
+module github.com/asmarana/hello
 
 go 1.19
